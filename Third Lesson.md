@@ -24,3 +24,5 @@
 | I run                                    | Я управляю чем-то                   | I run my own company                               |
 I work late most nights = work overtime 
 ![[Pasted image 20241220012816.png]]
+
+![[Pasted image 20241222213321.png]]
