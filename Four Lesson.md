@@ -13,6 +13,8 @@
 - from time to time
 - every now and then
 
+![[Pasted image 20241222213559.png]]
+
 <hr/>
 Как строятся такие предложения
 
@@ -27,3 +29,6 @@ Negative -> he,she,it + does not - doe<font color="#ffff00">s</font>n't + V1<fon
 Question -> Does +he,she,it +V1?
 
 <hr/>
+
++Определение времен
+![[Pasted image 20241222213543.png]]
