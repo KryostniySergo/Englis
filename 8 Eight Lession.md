@@ -3,11 +3,11 @@
 
 Глагол частоты ставим так
 
-Если Good 
+Если Positive 
 
 I go to bed late -> I usually go to bed late
 
-Если Bad
+Если Negative
 
 I dont go to bed late -> I dont usually go to bed late
 ![[Pasted image 20250202224042.png]]
@@ -27,9 +27,9 @@ at your earliest convenience? -> Когда тебе будет удобно
 
 Call me back at your earliest convenience? -> Позвони мне когда тебе будет удобно
 
-dress up / wear / change -> одеваться/ носить / менять
+dress up / wear / change -> одеваться/ носить / переодеваться
 
-somebody else's -> кто-то другой 
+somebody else's -> чей то ещё
 
 the roof of the house -> крыша дома
 
